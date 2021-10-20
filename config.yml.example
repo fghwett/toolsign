@@ -1,0 +1,6 @@
+config:
+  cookie: ""
+  userAgent: ""
+
+serverChan:
+  secretKey: ""
